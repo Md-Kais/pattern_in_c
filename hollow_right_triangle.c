@@ -21,4 +21,10 @@ int main()
     }
 }
 // Output:
-
+// $ ./hollow_right_triangleEnter the n
+// 5
+// *
+// **
+// * *
+// *  *
+// *****
