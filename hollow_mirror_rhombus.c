@@ -24,3 +24,12 @@ int main()
         printf("\n");
     }
 }
+//  ./hollow_mirror_rhombusEnter the n
+// 7
+// *******
+//  *     *
+//   *     *
+//    *     *
+//     *     *
+//      *     *
+//       *******
