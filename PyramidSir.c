@@ -20,3 +20,10 @@ int main(){
         printf("\n");
     }
 }
+//PS E:\pattern_in_c> .\PyramidSir
+// Enter the number:5
+//     1
+//    121
+//   12321
+//  1234321
+// 123454321
